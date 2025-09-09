@@ -32,8 +32,8 @@ class Warehouse {
 
 // Example usage
 const warehouse = new Warehouse();
-warehouse.addItem('Widgets', 150);
-warehouse.addItem('Gadgets', 120);
+warehouse.addItem('Widgets', 145);
+warehouse.addItem('Gadgets', 118);
 
 // Process an order
 const order = { 'Widgets': 5, 'Gadgets': 2 };
